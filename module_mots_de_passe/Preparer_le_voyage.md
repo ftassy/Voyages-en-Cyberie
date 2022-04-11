@@ -15,4 +15,4 @@ Afin de pouvoir réaliser les activités le jour J, il est recommandé de télé
   - Pour Google Chrome, Chromium, Vivaldi et Brave, visitez [https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
   - Pour Microsoft Edge, visitez [https://microsoftedge.microsoft.com/addons/detail/keepassxcbrowser/pdffhmdngciaglkoonimfcmckehcpafo](https://microsoftedge.microsoft.com/addons/detail/keepassxcbrowser/pdffhmdngciaglkoonimfcmckehcpafo)
 
-* Téléchargez le formulaire HTML de test : [https://github.com/ftassy/Voyages-en-Cyberie/module_mots_de_passe/formulaire.html](https://github.com/ftassy/Voyages-en-Cyberie/module_mots_de_passe/formulaire.html)
+* Téléchargez le formulaire HTML de test : [https://raw.githubusercontent.com/ftassy/Voyages-en-Cyberie/main/module_mots_de_passe/formulaire.html](https://raw.githubusercontent.com/ftassy/Voyages-en-Cyberie/main/module_mots_de_passe/formulaire.html)
